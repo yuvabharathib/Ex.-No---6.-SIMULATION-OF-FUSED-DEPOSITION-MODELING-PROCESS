@@ -21,9 +21,10 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/113594316/e05c97f8-b035-4e4d-86e8-f91a73aa95a8)
 
 ## Output:
+![image](https://github.com/SASIDEVIvenaram/Ex.-No---6.-SIMULATION-OF-FUSED-DEPOSITION-MODELING-PROCESS/assets/118707332/c2dafc53-ae2f-4e98-a068-b34637e1417a)
 
-### Name:
-### Register Number:
+### Name: YUVABHARATHI B
+### Register Number: 212222230181
 
 ## Result:
 ### Thus the simulation on the FDM process is completed & prototyping process is studied.
